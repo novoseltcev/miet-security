@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
     """
     Use example:
-        > python rel_byte_freq.py --path task.pdf
+        > python rel_byte_freq.py --path ../task.pdf
     """
 
     parser = ArgumentParser()
