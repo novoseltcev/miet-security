@@ -130,3 +130,7 @@ dmypy.json
 
 # Poetry lock
 /poetry.lock
+
+# dest
+*.txt
+*.msg
